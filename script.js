@@ -5,7 +5,7 @@ document.getElementById('name').innerText = 'Nyinang Grace Shekina Fortune La Di
 
 const songs = [
   "image/audio/KS Bloom - Joyeux Anniversaire ( Clip Officiel ).mp3", 
-  
+  "image/audio/Lo goût (Afro urbain).mp3",
   "image/audio/Les Rythmeurs ABC Célébration (Clip Officiel By Léo Vouk).mp3", 
   "image/audio/Shapat Ft. @minksofficiel5855  - Tous les jours (Clip officiel).mp3",
   "image/audio/download.mp4",
